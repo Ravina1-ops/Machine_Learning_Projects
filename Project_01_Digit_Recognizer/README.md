@@ -89,14 +89,17 @@ The model correctly predicts most handwritten digits with very few incorrect cla
 
 ### Confusion Matrix
 
+The confusion matrix below shows the performance of the KNN classifier on the test dataset. Most predictions lie on the diagonal, indicating that the model correctly classifies the majority of handwritten digits.
+
 ![Confusion Matrix](images/confusion_matrix.png)
 
 ---
 
 ### Sample Prediction
 
-![Prediction](images/prediction_example.png)
+The following example shows one prediction made by the trained model. It compares the model's predicted digit with the actual handwritten digit from the dataset.
 
+![Prediction Example](images/prediction_example.png)
 ## Future Improvements
 
 Some possible improvements include:
