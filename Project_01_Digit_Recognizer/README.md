@@ -84,6 +84,19 @@ The model correctly predicts most handwritten digits with very few incorrect cla
 
 ---
 
+
+## Project Output
+
+### Confusion Matrix
+
+![Confusion Matrix](images/confusion_matrix.png)
+
+---
+
+### Sample Prediction
+
+![Prediction](images/prediction_example.png)
+
 ## Future Improvements
 
 Some possible improvements include:
