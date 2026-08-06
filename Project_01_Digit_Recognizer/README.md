@@ -133,4 +133,4 @@ Through this project, I learned:
 
 B.Tech Computer Science Engineering
 
-Machine Learning Beginner 🚀
+Machine Learning Beginner 
