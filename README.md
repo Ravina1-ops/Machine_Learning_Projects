@@ -6,4 +6,4 @@ This repository contains all my Machine Learning projects.
 
 - Project 01 - Handwritten Digit Recognition ✅
 - Project 02 -  Machine Learning ALgorithms Practice with datasets  
-- Project 03 - Coming Soon...
+- Project 03 - recommendation 
